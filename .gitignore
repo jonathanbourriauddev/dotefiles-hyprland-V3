@@ -1,0 +1,7 @@
+*/cache/*
+*/Cache/*
+*/logs/*
+*.log
+.DS_Store
+*/credentials*
+*/secrets*
