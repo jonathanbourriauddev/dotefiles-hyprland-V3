@@ -17,3 +17,9 @@
 {"timestamp":2319667,"category":"genai.linkpreview","name":"card_close","extra":{"glean_timestamp":"1773589820186","duration":"4392"}}
 {"timestamp":2358589,"category":"genai.linkpreview","name":"start","extra":{"glean_timestamp":"1773589859108","source":"long_press","cached":"true"}}
 {"timestamp":2363947,"category":"genai.linkpreview","name":"card_close","extra":{"duration":"5358","glean_timestamp":"1773589864466"}}
+{"timestamp":2555715,"category":"genai.linkpreview","name":"start","extra":{"glean_timestamp":"1773590056234","cached":"true","source":"long_press"}}
+{"timestamp":2572516,"category":"genai.linkpreview","name":"card_close","extra":{"duration":"16801","glean_timestamp":"1773590073035"}}
+{"timestamp":2626313,"category":"genai.linkpreview","name":"start","extra":{"glean_timestamp":"1773590126832","source":"long_press","cached":"true"}}
+{"timestamp":2632612,"category":"genai.linkpreview","name":"card_close","extra":{"glean_timestamp":"1773590133131","duration":"6299"}}
+{"timestamp":2750676,"category":"genai.linkpreview","name":"start","extra":{"glean_timestamp":"1773590251195","source":"long_press","cached":"true"}}
+{"timestamp":2751771,"category":"genai.linkpreview","name":"card_close","extra":{"duration":"1095","glean_timestamp":"1773590252290"}}

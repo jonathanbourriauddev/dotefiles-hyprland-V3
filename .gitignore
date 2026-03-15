@@ -1,7 +1,30 @@
-*/cache/*
-*/Cache/*
-*/logs/*
-*.log
-.DS_Store
-*/credentials*
-*/secrets*
+
+# Tout exclure par défaut
+*
+
+# Sauf nos dotfiles
+!hypr/
+!hypr/**
+!kitty/
+!kitty/**
+!fish/
+!fish/**
+!starship/
+!starship/**
+!waybar/
+!waybar/**
+!dunst/
+!dunst/**
+!rofi/
+!rofi/**
+!wlogout/
+!wlogout/**
+!tmux/
+!tmux/**
+!yazi/
+!yazi/**
+!fastfetch/
+!fastfetch/**
+!nvim/
+!nvim/**
+!.gitignore
