@@ -3,6 +3,9 @@
 *
 
 # Sauf nos dotfiles
+BraveSoftware/
+mozilla/
+google-chrome/
 !hypr/
 !hypr/**
 !kitty/
